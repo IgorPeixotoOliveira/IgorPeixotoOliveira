@@ -1,5 +1,10 @@
 ## Bem-vindo(a) ao perfil do Igor Peixoto de Oliveira 😁
 
+<p>
+ Desenvolvedor Front-End em transição de carreira, com mais de 10 anos de experiência no setor financeiro, atuando em gestão, atendimento e assessoria para empresas. Ao longo da carreira, desenvolvi habilidades em análise de problemas, visão estratégica, foco em resultados e atendimento ao cliente.<br>
+Atualmente, estou focado no desenvolvimento de aplicações web, utilizando tecnologias como JavaScript, React, Redux e TypeScript. Busco oportunidades para aplicar minhas habilidades em tecnologia, contribuindo para a construção de soluções digitais intuitivas, eficientes e que gerem impacto positivo para usuários e empresas.
+</p>
+
  <div>
    <a href="(https://github.com/IgorPeixotoOliveira/IgorPeixotoOliveira.git)">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPeixotoOliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
