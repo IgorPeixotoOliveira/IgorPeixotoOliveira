@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil do Igor Peixoto de Oliveira 😁
 
+# Sobre min:
 <p>
  Desenvolvedor Front-End em transição de carreira, com mais de 10 anos de experiência no setor financeiro, atuando em gestão, atendimento e assessoria para empresas. Ao longo da carreira, desenvolvi habilidades em análise de problemas, visão estratégica, foco em resultados e atendimento ao cliente.<br>
 Atualmente, estou focado no desenvolvimento de aplicações web, utilizando tecnologias como JavaScript, React, Redux e TypeScript. Busco oportunidades para aplicar minhas habilidades em tecnologia, contribuindo para a construção de soluções digitais intuitivas, eficientes e que gerem impacto positivo para usuários e empresas.
@@ -19,7 +20,7 @@ Atualmente, estou focado no desenvolvimento de aplicações web, utilizando tecn
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/igorpxt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
