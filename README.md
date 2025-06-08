@@ -9,7 +9,7 @@ Atualmente, estou focado no desenvolvimento de aplicações web, utilizando tecn
  <div>
    <a href="(https://github.com/IgorPeixotoOliveira/IgorPeixotoOliveira.git)">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPeixotoOliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPeixotoOliveira&layout=compact&langs_count=6&theme=highcontrast"/>
+   <img height="180em" src=""/>
 </div>
     
 <div style="display: inline_block"><br>
