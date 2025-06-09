@@ -1,4 +1,4 @@
-##👋 Bem-vindo(a) ao perfil do Igor Peixoto de Oliveira
+## 👋 Bem-vindo(a) ao perfil do Igor Peixoto de Oliveira
 # 👨‍💻 Sobre mim
 Sou um Desenvolvedor Front-End em transição de carreira, com mais de 10 anos de experiência no setor financeiro — atuando com gestão, atendimento e assessoria a empresas. Essa trajetória me proporcionou uma base sólida em resolução de problemas, visão estratégica, foco em resultados e relacionamento com o cliente.
 
