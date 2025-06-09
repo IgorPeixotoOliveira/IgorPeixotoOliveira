@@ -5,9 +5,9 @@ Sou um Desenvolvedor Front-End em transição de carreira, com mais de 10 anos d
 Atualmente, me dedico ao desenvolvimento de aplicações web, utilizando tecnologias como JavaScript, React, Redux e TypeScript. Busco oportunidades para aplicar minhas habilidades em tecnologia, contribuindo para a criação de soluções digitais intuitivas, eficientes e que gerem valor real para usuários e empresas.
 
 ## 📊 GitHub Stats
-<div> <a href="https://github.com/IgorPeixotoOliveira"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPeixotoOliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPeixotoOliveira&layout=compact&langs_count=6&theme=highcontrast"/> </a> </div>
+<div> <a href="https://github.com/IgorPeixotoOliveira"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPeixotoOliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPeixotoOliveira&layout=compact&langs_count=10&theme=highcontrast"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPeixotoOliveira&projeto-magickia&theme=highcontrast" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPeixotoOliveira&projeto-magickia&theme=highcontrast" /> </a> </div>
 ##🚀 Tecnologias que utilizo
 ### 🚀 Tecnologias que utilizo
 
