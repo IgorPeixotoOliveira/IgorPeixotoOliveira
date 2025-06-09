@@ -6,6 +6,8 @@ Atualmente, me dedico ao desenvolvimento de aplicações web, utilizando tecnolo
 
 ## 📊 GitHub Stats
 <div> <a href="https://github.com/IgorPeixotoOliveira"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPeixotoOliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPeixotoOliveira&layout=compact&langs_count=6&theme=highcontrast"/> </a> </div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPeixotoOliveira&layout=compact&langs_count=10&theme=highcontrast"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPeixotoOliveira&projeto-magickia&theme=highcontrast" />
 ##🚀 Tecnologias que utilizo
 ### 🚀 Tecnologias que utilizo
 
